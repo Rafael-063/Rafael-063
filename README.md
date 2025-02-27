@@ -1,4 +1,4 @@
-## Eai, sou o Rafael
+## Olá, sou o Rafael
 
 - 🔭 Estudando no IFTO
 - ⚡ Treinando muito
